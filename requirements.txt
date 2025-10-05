@@ -1,3 +1,4 @@
+ffmpeg
 fastapi
 uvicorn
 transformers
@@ -6,4 +7,5 @@ torchaudio
 pydub
 ffmpeg-python
 python-multipart
+
 
